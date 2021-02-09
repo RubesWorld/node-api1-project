@@ -61,5 +61,5 @@ module.exports = {
   insert,
   update,
   remove,
-  resetDB, // ONLY TESTS USE THIS ONE
+  resetDB, //resetDB ONLY TESTS USE THIS ONE
 }
